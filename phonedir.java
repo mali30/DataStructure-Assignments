@@ -1,10 +1,4 @@
-/**
- * Created by Mohamed Ali
- * October 15, 2017
- * Assignment 4
- * Mr.Bhola
- * Data Structure
- 
+
  Purpose of the Program:
  To gain experience with input/output in Java along with Linked List.
 
