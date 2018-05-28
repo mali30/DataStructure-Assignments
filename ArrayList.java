@@ -1,10 +1,4 @@
-/**
- * Created by Mohamed Ali on 9/28/17.
- * Data Structures
- * Teacher: Mr.Bhola
- * Assignment 3
- * ArrayList.java
- */
+
 
 /**
 Conditions to Meet:
