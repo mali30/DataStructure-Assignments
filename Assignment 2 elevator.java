@@ -1,10 +1,3 @@
-/**
- * Created by MohamedAli on 9/13/17.
- * Data Structures
- * Teacher: Mr.Bhola
- * Assignment 2
- * Elevators.java
- */
 
 /**
  * Conditions to Meet:
