@@ -1,11 +1,3 @@
-/**
- * Created by: Mohamed Ali on
- * Date: 10/31/17.
- * Data Structure
- * Mr. Bhola
- * Assignment 5
- * Fall 2017
- */
 
 /**
  *
