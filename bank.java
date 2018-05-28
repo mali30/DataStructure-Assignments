@@ -1,8 +1,4 @@
-/*Name: Mohamed Ali
- * Date : November 19, 2017
- * Class : Data Structure
- * Assignment : 6
- *Program:  Bank Program
+
  
 /**Solution of Program
  This program will will prompt user to enter either yes or no. When the user hits Y or y, it will run the program.
